@@ -1,7 +1,7 @@
 # Non-replicated-Blockchain
 "Non-replicated" simplistic blockchain model demonstrating 'mutually exclusive access' using Lamport's protocol.
 
-No external dependecies. Code only uses basic python libraries.
+Python 2.7.12 -- No external dependecies.
 
 To run in terminal: (each instruction in new terminal window) 
   1. python blockchain_server.py  # will creat a centralized blockchain server in one window
