@@ -9,4 +9,4 @@ To run in terminal: (each instruction in new terminal window)
   3. python handle_client_interactive # one per client; this will allow client to put transaction requests interactively
 
   
-handle_client_interactive.py will creat a new process to take of communication in the network and execute transaction on blockchain server by obtaining mutualy exclusive access using Lamport's distributed protocol.
+handle_client_interactive.py will creat a new process to do communications over the network, and execute transactions on the blockchain server which is done by obtaining mutualy exclusive access using Lamport's (distributed) protocol.
